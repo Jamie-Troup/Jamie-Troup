@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Jamie-Troup, a budding game developer
+- 👋 Hi, I’m Jamie Troup, a budding game developer
 - 📫 How to reach me ... ywewvkue@duck.com
