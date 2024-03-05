@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Jamie Troup, a C++ software engineer
+- 👋 Hi, I’m Jamie Troup, a budding C++ software engineer
 - 📫 How to reach me ... ywewvkue@duck.com
